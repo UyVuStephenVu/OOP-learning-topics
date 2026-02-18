@@ -1,5 +1,5 @@
 site_name: OOP Report
-site_url: https://placeholder.com
+site_url: https://placeholdr.com
 markdown_extensions:
   - footnotes
 theme: 

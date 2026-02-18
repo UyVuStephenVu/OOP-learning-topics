@@ -1,10 +1,9 @@
-# Typescript
+# TypeScript
 
 Topics:
 
     * Introduction
     * Environment Set Up
-    * Linked List
 
 ## I. Introduction
 

@@ -61,6 +61,8 @@ Implicit often does more harm than good. To avoid said problem, typescript requi
 
 Javascript only added the "class" keyword in 2015, which under the hood is still prototype-based. Whereas Typescript was developed influenced by OOP languages like C# and Java, becoming class-based. 
 
+>P/S: The difference between class-based and prototype-based is that class-based systems create objects from predefined blueprints called classes, where inheritance happens between classes and structure is fixed and organized, while prototype-based systems create objects by linking them directly to other objects, where inheritance happens through object-to-object delegation and behavior can be modified dynamically at runtime.
+
 Features Typescript added includes class, interface, abstract class, public / private / protected, Generics, Stronger inheritance patterns. While Javascript already partially support OOP, Typescript made it more structure and enterprise-friendly.
 
 ## III. Running typescript on browser

@@ -7,6 +7,10 @@ Topics:
     *Inheritance
     *Polymorphism
 
+## I. Encapsulation
+
+## II. Abstraction
+
 ## III. Polymorphism
 
 ### 1. what is Polymorphism?
